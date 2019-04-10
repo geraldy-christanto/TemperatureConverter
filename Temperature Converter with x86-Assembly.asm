@@ -1,11 +1,11 @@
 ; ---------------------------------------------------------------------------------------------------------------------------------
 ;| @2019                                                                                                                          |
-;| AUTHORS: 1. GERALDY CHRISTANTO                     ( TEKNIK KOMPUTER - 1706043001 - 8A )       			                      |
-;|          2. MUHAMAD FAHRIZA NOVRIANSYAH            ( TEKNIK KOMPUTER - 1706042951 - 7A )       	 	  	                      |
-;|          3. MUHAMMAD FAJAR MILLEANO                ( TEKNIK KOMPUTER - 1706043014 - 8A )       			                      |
-;|          4. MUHAMMAD ILHAM AKBAR                   ( TEKNIK KOMPUTER - 1706042970 - 7A )         	  	                      |
-;| KELOMPOK: 4A                                                                                      		                      |
-;| TEMA    : KONVERSI SATUAN SUHU                                                                  			                      |
+;| AUTHORS: 1. GERALDY CHRISTANTO                     ( Computer Engineering - 1706043001 - 8A )       			                      |
+;|          2. MUHAMAD FAHRIZA NOVRIANSYAH            ( Computer Engineering - 1706042951 - 7A )       	 	  	                      |
+;|          3. MUHAMMAD FAJAR MILLEANO                ( Computer Engineering - 1706043014 - 8A )       			                      |
+;|          4. MUHAMMAD ILHAM AKBAR                   ( Computer Engineering - 1706042970 - 7A )         	  	                      |
+;| GROUP   : 4A                                                                                      		                      |
+;| TITLE   : TEMPERATURE CONVERSION                                                                  			                      |
 ; ---------------------------------------------------------------------------------------------------------------------------------
 ; SKENARIO: 1. PROGRAM MEMINTA USER UNTUK MEMILIH SATUAN KONVERSI SUHU YANG AKAN DILAKUKAN
 ;           2. USER MEMASUKKAN SUHU YANG INGIN DIKONVERSI
